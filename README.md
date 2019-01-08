@@ -1,6 +1,3 @@
-visit: 
-https://cizirgan.github.io/Angular
-
 # Front-end Frameworks
 ## Traditional Web Apps and Single Page Apps (SPAs)
 [Choose Between Traditional Web Apps and Single Page Apps (SPAs)][1]
