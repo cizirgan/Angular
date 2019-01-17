@@ -1,4 +1,4 @@
-# Angular Recursos
+# PPlus
 
 Puedes visitar la página wiki para más información.
 
